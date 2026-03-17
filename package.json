@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
   "dependencies": {
     "modernizr": "^3.13.1",
     "normalize.css": "^8.0.1"
