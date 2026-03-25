@@ -1,0 +1,49 @@
+/* ------- ------- ------- HEADER ------- ------- ------- */
+
+header {
+    background: lightblue;
+}
+
+/* ------- ------- ------- MAIN------- ------- ------- */
+
+main {
+    background: lightcyan;
+}
+
+/* ------- ------- ------- FOOTER ------- ------- ------- */
+
+footer {
+    background: lightblue;
+}
+
+.container {
+    background: lightgray;
+}
+
+nav {
+    background: lightcoral;
+}
+
+.container-text {
+    background: lightsalmon;
+}
+
+#section-about {
+    background: lightgreen;
+}
+
+#section-jobs {
+    background: lightseagreen;
+}
+
+#section-skills {
+    background: khaki;
+}
+
+#section-contact {
+    background: lightblue;
+}
+
+#section-socialMedia {
+    background: thistle;
+}
