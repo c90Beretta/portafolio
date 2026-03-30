@@ -116,3 +116,50 @@ header .container-text .text .btn-cv:hover {
     outline-color: rgba(255, 255, 255, 0);
     text-shadow: 1px 1px 2px #427388;
 }
+
+/* -------------- MAIN ------------- */
+main .container {
+    overflow: visible;
+}
+
+/* ---- Acerca de ---- */
+main #section-about {
+    text-align: center;
+}
+
+/* Estilo de Foto */
+main #section-about .photo {
+    margin-top: -100px;
+}
+
+main #section-about .photo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    vertical-align: top;
+    border: 5px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Estilo Texto de la sección About*/
+main #section-about .text {
+    color: #5a5a5a;
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 30px;
+    width: 80%;
+    margin: 40px auto 60px auto;
+}
+
+main #section-about .text .title {
+    font-size: 34px;
+    margin-bottom: 40px;
+    line-height: 34px;
+    font-weight: 300;
+    color: #dd820d;
+    text-align: center;
+}
+
+main #section-about .text .bold {
+    color: #3895ea;
+    text-decoration: underline;
+}
